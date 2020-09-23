@@ -3,12 +3,12 @@
 2. Elabore, en una hoja de papel, el diagrama de flujo para el programa que produce la siguiente
 salida en la terminal:
 
-A                                          A
-A B                                  B A
-A B C                           C B A
-A B C D                   D C B A
-A B C D E            E D C B A
-A B C D E F     F E D C B A
+A                                    A
+A B                             B A
+A B C                       C B A
+A B C D                D C B A
+A B C D E          E D C B A
+A B C D E F    F E D C B A
 A B C D E F G F E D C B A
 
  */
